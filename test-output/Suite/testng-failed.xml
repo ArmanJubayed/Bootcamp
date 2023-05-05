@@ -5,7 +5,6 @@
     <classes>
       <class name="testcases.LoginTest">
         <methods>
-          <include name="verifyLoginWithInvalidEmailAndValidPassword"/>
           <include name="tearDown"/>
           <include name="verifyLoginWithInvalidCredentials"/>
           <include name="setUp"/>
